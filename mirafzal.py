@@ -1,0 +1,1 @@
+print("mirafzal kechli dasturchi")
